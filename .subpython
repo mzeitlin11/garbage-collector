@@ -1,0 +1,38 @@
+quit
+quit()
+a = {'a': 1}
+lst = [1,2]
+a['a'] = a
+lst[1] = a
+gc()
+del lst
+gc()
+quit()
+a = {'a':1}
+lst = [1,2]
+a['a'] =a
+lst[1] = a
+gc()
+del lst
+gc()
+gc()
+gc()
+quit()
+1+2
+gc()
+a = {'a': 1}
+lst = [1,2]
+a['a'] = a
+lst[1] = s
+lst[1] = a
+gc()
+del lst
+gc()
+quit()
+23
+5+6
+lst=4
+gc()
+del lst
+gc()
+quit()
